@@ -80,7 +80,7 @@
   </tr>
   <tr>
     <td>Markov chain</td>
-    <td>❌</td>
+    <td>✔️</td>
   </tr>
   <tr>
     <td>Statistical interface</td>    
