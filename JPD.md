@@ -13,3 +13,10 @@
 | V(y) | E(y²) − [E(y)]² | E(y²) − [E(y)]² |
 | COV(x,y) | E(xy) − E(x)E(y) | E(xy) − E(x)E(y) |
 |ρ(x,y)|COV(x,y)/[σ(x)σ(y)]|COV(x,y)/[σ(x)σ(y)]|
+
+# Markov Chain
+1. Identify states
+2. Build the transition matrix
+3. Identify the initial state
+4. Compute pⁿ
+5. Compute Fixed Probability Vector V
