@@ -72,7 +72,7 @@
   </tr>
   <tr>
     <td>Discrete</td>
-    <td>❌</td>
+    <td>✔️</td>
   </tr>
   <tr>
     <td>Continous</td>
