@@ -83,8 +83,26 @@
     <td>✔️</td>
   </tr>
   <tr>
-    <td>Statistical interface</td>    
-    <td>null</td>
+    <td rowspan=6>Statistical interface</td>    
+  </tr>
+    <tr>
+    <td>Large sample(z)</td>
+    <td>✔️</td>
+  </tr>
+      <tr>
+    <td>Small sample(t)</td>
+    <td>✔️</td>
+  </tr>
+      <tr>
+    <td>Paired t</td>
+    <td>❌</td>
+  </tr>
+      <tr>
+    <td>F distribution</td>
+    <td>❌</td>
+  </tr>
+      <tr>
+    <td>Chi-square distribution</td>
     <td>❌</td>
   </tr>
   <tr>
