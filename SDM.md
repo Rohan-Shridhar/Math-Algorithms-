@@ -45,27 +45,27 @@
   </tr>
     <tr>
     <td>Poisson distribution</td>
-    <td>❌</td>
+    <td>✔️</td>
   </tr>
     <tr>
     <td>Geometric distribution</td>
-    <td>❌</td>
+    <td>✔️</td>
   </tr>
     <tr>
     <td>Uniform distribution</td>
-    <td>❌</td>
+    <td>✔️</td>
   </tr>
     <tr>
     <td>Exponential distribution</td>
-    <td>❌</td>
+    <td>✔️</td>
   </tr>
     <tr>
     <td>Normal distribution</td>
-    <td>❌</td>
+    <td>✔️</td>
   </tr>
     <tr>
     <td>Gamma distribution</td>
-    <td>❌</td>
+    <td>✔️</td>
   </tr>
   <tr>
     <td rowspan=4>Joint probability</td>
