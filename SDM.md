@@ -85,19 +85,19 @@
   <tr>
     <td rowspan=6>Statistical interface</td>    
   </tr>
-    <tr>
+  <tr>
     <td>Large sample(z)</td>
     <td>✔️</td>
   </tr>
-      <tr>
+  <tr>
     <td>Small sample(t)</td>
     <td>✔️</td>
   </tr>
-      <tr>
+  <tr>
     <td>Paired t</td>
     <td>✔️</td>
   </tr>
-      <tr>
+  <tr>
     <td>F distribution</td>
     <td>✔️</td>
   </tr>
@@ -106,8 +106,22 @@
     <td>❌</td>
   </tr>
   <tr>
-    <td>Combinations</td>
-    <td>null</td>
-    <td>❌</td>
+    <td rowspan=5>Combinations</td>
+  </tr>
+  <tr>
+    <td>Bionomial and polynomial theorem</td>
+    <td>✔️</td>
+  </tr>
+  <tr>
+    <td>Inclusion Exclusion</td>
+    <td>✔️</td>
+  </tr>
+  <tr>
+    <td>Catalan number</td>
+    <td>✔️</td>
+  </tr>
+  <tr>
+    <td>Deaarangement</td>
+    <td>✔️</td>
   </tr>
 </table>
