@@ -95,11 +95,11 @@
   </tr>
       <tr>
     <td>Paired t</td>
-    <td>❌</td>
+    <td>✔️</td>
   </tr>
       <tr>
     <td>F distribution</td>
-    <td>❌</td>
+    <td>✔️</td>
   </tr>
       <tr>
     <td>Chi-square distribution</td>
