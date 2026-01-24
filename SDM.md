@@ -10,35 +10,35 @@
   </tr>
     <tr>
     <td>Definition and types</td>
-    <td>❌</td>
+    <td>✔️</td>
   </tr>
     <tr>
     <td>Handshaking lamma</td>
-    <td>❌</td>
+    <td>✔️</td>
   </tr>
     <tr>
     <td>Isomorphism</td>
-    <td>❌</td>
+    <td>✔️</td>
   </tr>
     <tr>
     <td>Matrix represenation</td>
-    <td>❌</td>
+    <td>✔️</td>
   </tr>
     <tr>
     <td>Theorem</td>
-    <td>❌</td>
+    <td>✔️</td>
   </tr>
     <tr>
     <td>Kruskal</td>
-    <td>❌</td>
+    <td>✔️</td>
   </tr>
     <tr>
     <td>Dijkstra</td>
-    <td>❌</td>
+    <td>✔️</td>
   </tr>
     <tr>
     <td>Euler and hamilton</td>
-    <td>❌</td>
+    <td>✔️</td>
   </tr>
   <tr>
     <td rowspan=7>Probability</td>
