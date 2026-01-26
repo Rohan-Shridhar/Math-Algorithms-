@@ -14,5 +14,5 @@
 ## Unit 4
 - Multithreading
 ## Unit 5
-- Event handling
-- GUI
+- Events, listeners, classes, interfaces
+- AWT and frames
