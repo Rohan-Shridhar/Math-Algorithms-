@@ -24,10 +24,20 @@
 - - types
   - overloading
 - static keyword
+- final keyword
 - Garbage collection
 ## Unit 2
 - Inheritance
+- - extends keyword
+  - types
+  - super keyword
+- Polymorphism
+- - overloading
+  - overriding
 - DMD
+- - upcasting
+  - downcasting
+- final keyword
 - Abstract class
 - Strings
 - String buffer
