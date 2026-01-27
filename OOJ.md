@@ -1,11 +1,29 @@
 ## Unit 1 
 - Features of java
 - Variables
+- - types
+  - lifetime
+  - scope
 - Datatypes
+- - types
+  - range
+  - conversion
+  - - widening
+    - narrowing
 - Arrays
+- - Jagged arrays
 - Classes
+- Objects
+- - declaration, initialisation, instancialisation
+  - Object as parameter
+  - Object as return type
+  - this keyword
 - Methods
+- - Overloading
 - Constructors
+- - types
+  - overloading
+- static keyword
 - Garbage collection
 ## Unit 2
 - Inheritance
@@ -16,8 +34,13 @@
 - Generics
 ## Unit 3
 - Packages
+- Member acccess
 - Interfaces
-- Exception handling
+- Exceptions
+- - try catch
+  - finally
+  - throw
+  - throws
 ## Unit 4
 - Multithreading
 ## Unit 5
