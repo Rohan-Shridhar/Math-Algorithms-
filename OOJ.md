@@ -6,9 +6,13 @@
 - Classes
 - Methods
 - Constructors
+- Garbage collection
 ## Unit 2
 - Inheritance
+- DMD
+- Abstract class
 - Strings
+- String buffer
 - Generics
 ## Unit 3
 - Packages
