@@ -59,5 +59,22 @@
 - Multithreading
 - io stream
 ## Unit 5
-- Events, listeners, classes, interfaces
-- AWT and frames
+- Events
+- - Delegation
+  - Event source
+  - Event object
+  - Event listener
+- Mouse handling
+- - MouseEvent class
+  - MouseListener interface
+  - MouseMotionListener interface
+- AWT
+- - Hierarchy 
+  - Components
+    - Button
+    - Label
+    - TextField and TextArea
+    - Choice
+    - Checkbox and CheckboxGroup
+    - List
+- Graphics
