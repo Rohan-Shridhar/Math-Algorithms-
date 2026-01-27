@@ -44,15 +44,20 @@
 - Generics
 ## Unit 3
 - Packages
+- - types
 - Member acccess
 - Interfaces
+- - implements keyword
+  - multiple inheritance
 - Exceptions
-- - try catch
+- - types
+  - try catch
   - finally
   - throw
   - throws
 ## Unit 4
 - Multithreading
+- io stream
 ## Unit 5
 - Events, listeners, classes, interfaces
 - AWT and frames
