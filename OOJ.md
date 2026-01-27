@@ -1,8 +1,11 @@
 ## Unit 1 
+- Features of java
+- Variables
 - Datatypes
 - Arrays
 - Classes
 - Methods
+- Constructors
 ## Unit 2
 - Inheritance
 - Strings
