@@ -1,5 +1,7 @@
 ## Unit 1 
 - Features of java
+- - Bytecode
+  - Buzz words
 - Variables
 - - types
   - lifetime
@@ -55,12 +57,20 @@
   - finally
   - throw
   - throws
+  - User defined exceptions
 ## Unit 4
 - Multithreading
+- - Thread life cycle
+  - Methods
+  - Priority
+  - Synchrnisation
 - io stream
+- - byte streams
+  - character streams
+  - system streams
 ## Unit 5
 - Events
-- - Delegation
+- - Delegation model
   - Event source
   - Event object
   - Event listener
@@ -78,3 +88,6 @@
     - Checkbox and CheckboxGroup
     - List
 - Graphics
+- - paint()
+  - Liness, arcs, rectangles
+  - Polygons, rounded rectangles
