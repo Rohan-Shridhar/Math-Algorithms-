@@ -1,4 +1,4 @@
-Unit 1
+## Unit 1
 - Basic gates
 - Boolean laws
 - Simplify expression using boolean laws and draw circuit
@@ -14,13 +14,13 @@ Unit 1
   - for POS
  
 
-Unit 3
+## Unit 3
 - PLD defination and notation
 - PROM
 - PLA
 - PAL
 
-Unit 4
+## Unit 4
 - Sequential circuits
 - - Synchronous
   - Asynchronous
@@ -50,3 +50,17 @@ Unit 4
     - Clocked FF
     - Master Slave FF
     - Timing diagrams
+## Unit 5
+- Counters
+- - Sync vs Async
+  - Ripple counters
+  - Bit counter
+  - - Excitation table
+    - State diagram
+    - Transition table
+    - State equation
+    - Diagram
+    - Self correcting
+- Machines
+- - Mealy machine
+  - Moore machine
