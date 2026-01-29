@@ -12,6 +12,8 @@ Unit 1
 - Quine McClusty method
 - - for SOP
   - for POS
+ 
+
 Unit 3
 - PLD defination and notation
 - PROM
