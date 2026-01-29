@@ -19,3 +19,34 @@ Unit 3
 - PROM
 - PLA
 - PAL
+
+Unit 4
+- Sequential circuits
+- - Synchronous
+  - Asynchronous
+- Bistable element
+- Latches
+- - SR latch
+  - - Diagram
+    - Forbidden state
+    - Truth table
+    - Excitation table
+    - Characteristic equation
+- - Gated SR latch
+- - Gated D latch
+  - - Diagram
+    - Truth table
+    - Excitation table
+    - Characteristic equation
+- Flip-Flops
+- - SR flip flop
+  - - Timing diagram
+  - Edge-trigged D flip-flop
+  - - Positive
+    - Negative
+    - Metastability
+    - Timimg diagram
+  - - JK flip-flop
+    - Clocked FF
+    - Master Slave FF
+    - Timing diagrams
