@@ -1,0 +1,13 @@
+## Stacks
+- Operations
+- - PUSH
+  - POP
+  - DISPLAY
+- Applications
+- Infix to postfix
+- Postfix evaluation
+- Recursion
+- - Trace the code
+  - Predict the output
+- Reverse a string
+- Balanced paranthesis
