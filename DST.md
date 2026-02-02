@@ -11,3 +11,16 @@
   - Predict the output
 - Reverse a string
 - Balanced paranthesis
+## Queues
+- Operations
+- - enqueue
+  - dequeue
+- Circular queue
+- - enqueue
+  - dequeue
+- Double ended queue
+- - enqueueL
+  - enqueueR
+  - dequeueL
+  - dequeueR
+- Priority queue
