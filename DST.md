@@ -24,3 +24,41 @@
   - dequeueL
   - dequeueR
 - Priority queue
+- - min pri que
+  - max pri que
+
+## Linked lists
+- Array vs LL
+- Adv and disadv of linked list
+- Dynamic memory allocation
+- SLL
+- - insertFront
+  - insertEnd
+  - insertPos
+  - deleteFront
+  - deleteEnd
+  - deletePos
+- DLL
+- - insertFront
+  - insertEnd
+  - insertPos
+  - deleteFront
+  - deleteEnd
+  - deletePos
+- CLL
+- - insertFront
+  - insertEnd
+  - insertPos
+  - deleteFront
+  - deleteEnd
+  - deletePos
+- Linked list functions
+- - search(value)
+  - delete(value)
+  - sort()
+  - merge()
+  - reverse()
+  - count()
+- Implement stack and queue using SLL
+- Polynomial addition
+- Representing sprase matrix
