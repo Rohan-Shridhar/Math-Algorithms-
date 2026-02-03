@@ -62,3 +62,26 @@
 - Implement stack and queue using SLL
 - Polynomial addition
 - Representing sprase matrix
+
+## Trees
+- Terminologies
+- Binary tree types
+- Traversal
+- DFS BFS
+- Binary search tree
+- - Insertion
+  - Deletion
+  - Display
+- Graphs
+- - DFS
+  - BFS
+
+## Hashing
+- Terminologies
+- Hashing mechanism
+- Collision rosolution techniques
+- - Separate chaining
+  - Open addressing
+  - - Linear probing
+    - Quadratic probing
+    - Double hashing
